@@ -15,11 +15,11 @@ Backend Dev + Low-Code Builder. Tôi làm API, DB, và build nhanh product bằn
 ![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=flat)
 
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rs-truongnh&show_icons=true&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=rs-truongnh&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rs-truongnh&layout=compact&theme=tokyonight)
-![Trophy](https://github-profile-trophy.vercel.app/?username=rs-truongnh&theme=tokyonight)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=rs-truongnh&theme=tokyo-night)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rs-truongnh&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rs-truongnh&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rs-truongnh&theme=tokyonight)
+![Contributions](https://ghchart.rshah.org/rs-truongnh)
 
 ### Snake
 <picture>
