@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Backend+Developer;NestJS+%7C+Ruby+%7C+SQL;Low-Code+%7C+Automation+%7C+AI)](https://git.io/typing-svg)
 
-Backend Dev + Low-Code Builder. Tôi làm API, DB, và build nhanh product bằng automation + AI.
+Backend Dev + Low-Code Builder.
 
 ### Tech Stack
 **Backend:**
