@@ -23,8 +23,8 @@ Backend Dev + Low-Code Builder. Tôi làm API, DB, và build nhanh product bằn
 
 ### Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rs-truongnh/RsTruongNH/output/dist/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/rs-truongnh/RsTruongNH/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rs-truongnh/RsTruongNH/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rs-truongnh/RsTruongNH/output/github-snake.svg" />
 </picture>
 
 ![Visitors](https://komarev.com/ghpvc/?username=rs-truongnh&color=36bcf7)
